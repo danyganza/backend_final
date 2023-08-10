@@ -25,4 +25,5 @@ htmlcov/
 .coverage.*
 *,cover
 dbcreds.py
-password_model.py
+.models/password_model.py
+models
